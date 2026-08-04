@@ -1,0 +1,2 @@
+[tool.vercel]
+entrypoint = "dart_app:app"
