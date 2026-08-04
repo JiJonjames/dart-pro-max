@@ -11,5 +11,8 @@
       "src": "/(.*)",
       "dest": "dart_app.py"
     }
-  ]
+  ],
+  "env": {
+    "PYTHONUNBUFFERED": "1"
+  }
 }
